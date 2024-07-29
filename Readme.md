@@ -4,3 +4,4 @@
 - Para ejecutar el sistema debes poner:
   ```bash
   npm install react
+#Sistemas de verificaciòn
